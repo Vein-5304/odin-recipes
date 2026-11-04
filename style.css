@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+} 
+
+
+.main{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+p{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+a{
+    display: block;
+}
+
